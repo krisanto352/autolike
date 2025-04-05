@@ -74,4 +74,3 @@ If you have suggestion use GitHub issue system or send a message in Facebook htt
       
 .. |Size| image:: https://img.shields.io/github/size/arsho/autolike/autolike/__init__.py.svg?
    :target: https://github.com/arsho/autolike/   
-   
